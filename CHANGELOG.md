@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v1.1.0
+
+[compare changes](https://undefined/undefined/compare/v1.0.0...v1.1.0)
+
+
+### 🚀 Enhancements
+
+  - Add `diff` support for `DebounceOptions` (eb9d0a6)
+
+### ❤️  Contributors
+
+- H171 <1091088708@qq.com>
+
 ## v1.0.0
 
 [compare changes](https://undefined/undefined/compare/v0.1.3...v1.0.0)

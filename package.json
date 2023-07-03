@@ -1,8 +1,8 @@
 {
-  "name": "perfect-debounce",
-  "version": "1.0.0",
+  "name": "@171h/debounce",
+  "version": "1.1.0",
   "description": "",
-  "repository": "unjs/perfect-debounce",
+  "repository": "171h/perfect-debounce",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
@@ -24,7 +24,7 @@
     "dev": "vitest dev",
     "lint": "eslint --ext .ts,.js,.mjs,.cjs . && prettier --check src test",
     "lint:fix": "eslint --ext .ts,.js,.mjs,.cjs . --fix && prettier -w src test",
-    "release": "pnpm test && pnpm build && changelogen --release --push && npm publish",
+    "release": "pnpm build && changelogen --release --push && npm publish --access=public",
     "test": "vitest run --coverage"
   },
   "devDependencies": {
