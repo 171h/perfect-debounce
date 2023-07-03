@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v1.1.1
+
+[compare changes](https://undefined/undefined/compare/v1.1.0...v1.1.1)
+
+
+### 📖 Documentation
+
+  - Update docs for `diff` option (eaea4f5)
+
+### 🏡 Chore
+
+  - Update lint (0e024bf)
+
+### ❤️  Contributors
+
+- H171 <1091088708@qq.com>
+
 ## v1.1.0
 
 [compare changes](https://undefined/undefined/compare/v1.0.0...v1.1.0)
